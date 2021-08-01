@@ -8,7 +8,7 @@
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "---Tell Something about yourself ---",
 		"location": {
-			"address": "---",
+			"address": "",
 			"postalCode": "322201",
 			"city": "Gangapur City",
 			"countryCode": "India",
@@ -26,8 +26,8 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "amit-garg-a7089b191",
+				"url": "https://www.linkedin.com/in/amit-garg-a7089b191/"
 			},
 			{
 				"network": "Instagram",
@@ -58,9 +58,9 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"startDate": "2019",
+		"endDate": "2023",
+		"gpa": "7.84",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -70,7 +70,7 @@
 		"awarder": "---Receiverd By ---",
 		"date": "2020-08-21//Date"
 	}],
-	"publications": [{
+	"projects": [{
 		"title": "---Enter Title---",
 		"details": "---Enter Details---",
 		"link": "---github/website link to show your work---"
