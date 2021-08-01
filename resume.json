@@ -1,18 +1,18 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Amit Garg",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
+		"email": "2019KUCP1091@iiitkota.ac.in",
+		"phone": "8875028790",
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "---Tell Something about yourself ---",
 		"location": {
 			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"postalCode": "322201",
+			"city": "Gangapur City",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -21,8 +21,8 @@
 			},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "Amit-kota",
+				"url": "https://www.github.com/Amit-kota/"
 			},
 			{
 				"network": "linkedin",
