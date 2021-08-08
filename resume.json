@@ -37,21 +37,21 @@
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
+		"company": " ",
+		"position": " ",
+		"website": " ",
+		"startDate": " ",
+		"endDate": " ",
+		"summary": " ",
+		"highlights": [" ", " "]
 	}],
 	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
+		"organization": " ",
+		"position": " ",
+		"website": " ",
+		"startDate": " ",
+		"endDate": " ",
+		"summary": " ",
 		"highlights": []
 	}],
 	"education": [{
@@ -66,22 +66,22 @@
 		]
 	}],
 	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
+		"title": " ",
+		"awarder": " ",
+		"date": " "
 	}],
 	"projects": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"title": " ",
+		"details": " ",
+		"link": " "
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript",  "C", ""]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Table Tennis", "Cricket"]
 	}],
 	"references": []
 }
