@@ -35,7 +35,7 @@
 				"url": "https://instagram.com/<handle>"
 			}
 		]
-	},
+	}
 	"work": [{
 		"company": " ",
 		"position": " ",
@@ -43,8 +43,8 @@
 		"startDate": " ",
 		"endDate": " ",
 		"summary": " ",
-		"highlights": [" ", " "]
-	}],
+		"highlights": []
+	}]
 	"volunteer": [{
 		"organization": " ",
 		"position": " ",
@@ -53,7 +53,7 @@
 		"endDate": " ",
 		"summary": " ",
 		"highlights": []
-	}],
+	}]
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
