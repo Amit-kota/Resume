@@ -15,11 +15,6 @@
 			"region": "Rajasthan"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
-			{
 				"network": "Github",
 				"username": "Amit-kota",
 				"url": "https://www.github.com/Amit-kota/"
@@ -31,11 +26,11 @@
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "amitgarg6946",
+				"url": "https://instagram.com/amitgarg6946/"
 			}
 		]
-	}
+	},
 	"work": [{
 		"company": " ",
 		"position": " ",
@@ -44,7 +39,7 @@
 		"endDate": " ",
 		"summary": " ",
 		"highlights": []
-	}]
+	}],
 	"volunteer": [{
 		"organization": " ",
 		"position": " ",
@@ -53,7 +48,7 @@
 		"endDate": " ",
 		"summary": " ",
 		"highlights": []
-	}]
+	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
@@ -77,7 +72,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript",  "C", ""]
+		"keywords": ["HTML", "CSS", "Javascript",  "C","Python"]
 	}],
 	"interests": [{
 		"name": "Sports",
