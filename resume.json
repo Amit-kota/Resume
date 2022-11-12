@@ -5,9 +5,9 @@
 		"picture": "https://photos.app.goo.gl/BuHDQTCZ4SdQVMWG9",
 		"email": "2019KUCP1091@iiitkota.ac.in",
 		"phone": "8875028790",
-		"summary": "I'm 3rd year student pursuing B.Tech degree in Computer Science and Engineering at Indian Institute of Information and Technology ,Kota ",
+		"summary": "I'm 4th year student pursuing B.Tech degree in Computer Science and Engineering at Indian Institute of Information and Technology ,Kota ",
 		"location": {
-			"address": "",
+			"address": "Near New Mandi, Udai Mode",
 			"postalCode": "322201",
 			"city": "Gangapur City",
 			"countryCode": "India",
@@ -40,7 +40,7 @@
 		"highlights": []
 	}],
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019",
@@ -62,7 +62,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript",  "C/C++","Python"]
+		"keywords": ["HTML", "CSS", "Javascript",  "C/C++","Python","MYSQL","OOPs"]
 	}],
 	"interests": [{
 		"name": "Sports",
